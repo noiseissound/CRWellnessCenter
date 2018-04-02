@@ -7,10 +7,10 @@
 	>
 <channel>
 	<title>Comments on: Featured</title>
-	<atom:link href="/2018/04/02/featured/feed/" rel="self" type="application/rss+xml" />
-	<link>/2018/04/02/featured/</link>
+	<atom:link href="https://noiseissound.github.io/CRWellnessCenter/2018/04/02/featured/feed/" rel="self" type="application/rss+xml" />
+	<link>https://noiseissound.github.io/CRWellnessCenter/2018/04/02/featured/</link>
 	<description></description>
-	<lastBuildDate>Mon, 02 Apr 2018 10:39:00 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 02 Apr 2018 11:01:06 +0000</lastBuildDate>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=4.9.4</generator>

@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Products &#8211; CR Wellness Dispensary</title>
-	<atom:link href="/shop/feed/" rel="self" type="application/rss+xml" />
-	<link></link>
+	<atom:link href="https://noiseissound.github.io/CRWellnessCenter/shop/feed/" rel="self" type="application/rss+xml" />
+	<link>https://noiseissound.github.io/CRWellnessCenter</link>
 	<description></description>
 	<lastBuildDate>Mon, 02 Apr 2018 09:42:37 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -19,11 +19,11 @@
 	<generator>https://wordpress.org/?v=4.9.4</generator>
 	<item>
 		<title>Muscle Rub 70ml/250mg</title>
-		<link>/product/muscle-rub-70ml-250mg/</link>
+		<link>https://noiseissound.github.io/CRWellnessCenter/product/muscle-rub-70ml-250mg/</link>
 		<pubDate>Mon, 02 Apr 2018 06:22:31 +0000</pubDate>
 		<dc:creator><![CDATA[root]]></dc:creator>
 		
-		<guid isPermaLink="false">/?post_type=product&#038;p=857</guid>
+		<guid isPermaLink="false">https://noiseissound.github.io/CRWellnessCenter/?post_type=product&#038;p=857</guid>
 		<description><![CDATA[Our Muscle Rub is formulated with soothing analgesic essential oils in combination with Cannabis, CBD and Arnica to ease aches and pains and promote a cooling effect to applied areas.
 
 Ingredients:
@@ -31,25 +31,25 @@ Ingredients:
 Organic Coconut Oil, Cannabis, Arnica, Shea Butter, CBD, essential oils of Wintergreen, Peppermint, Eucalyptus, Camphor, Black Pepper, Lavender and Nutmeg.
 
 Available in:]]></description>
-				<content:encoded><![CDATA[<p><img src='-content/uploads/2018/04/MuscleRubTrio.jpg'></p>]]></content:encoded>
+				<content:encoded><![CDATA[<p><img src='https://noiseissound.github.io/CRWellnessCenter-content/uploads/2018/04/MuscleRubTrio.jpg'></p>]]></content:encoded>
 			</item>
 		<item>
 		<title>Cannabis Salve 70ml stick: 250mg</title>
-		<link>/product/cannabis-salve-70ml-stick-250mg/</link>
+		<link>https://noiseissound.github.io/CRWellnessCenter/product/cannabis-salve-70ml-stick-250mg/</link>
 		<pubDate>Mon, 02 Apr 2018 06:21:20 +0000</pubDate>
 		<dc:creator><![CDATA[root]]></dc:creator>
 		
-		<guid isPermaLink="false">/?post_type=product&#038;p=855</guid>
+		<guid isPermaLink="false">https://noiseissound.github.io/CRWellnessCenter/?post_type=product&#038;p=855</guid>
 		<description><![CDATA[This healing salve is a powerful topical that may be used as an anti-inflammatory to ease aches and pains while also soothing skin irritations. Enjoy deep relief without the psychoactive effect of cannabis. We carefully blend the infusion with other herbs to offer a unique salve that works on many levels. Common uses include arthritis, psoriasis, eczema, burns, rashes, anti-wrinkle, scar prevention, skin cell regeneration, sun spots, tattoo healing and to ease menstrual cramps, insomnia, migraines &#038; headaches.]]></description>
-				<content:encoded><![CDATA[<p><img src='-content/uploads/2018/04/Salve30ml-1.jpg'></p>]]></content:encoded>
+				<content:encoded><![CDATA[<p><img src='https://noiseissound.github.io/CRWellnessCenter-content/uploads/2018/04/Salve30ml-1.jpg'></p>]]></content:encoded>
 			</item>
 		<item>
 		<title>Natural Terpene Infused Lavender Soap</title>
-		<link>/product/100-all-natural-relax-lavender-soap/</link>
+		<link>https://noiseissound.github.io/CRWellnessCenter/product/100-all-natural-relax-lavender-soap/</link>
 		<pubDate>Mon, 02 Apr 2018 06:20:05 +0000</pubDate>
 		<dc:creator><![CDATA[root]]></dc:creator>
 		
-		<guid isPermaLink="false">/?post_type=product&#038;p=852</guid>
+		<guid isPermaLink="false">https://noiseissound.github.io/CRWellnessCenter/?post_type=product&#038;p=852</guid>
 		<description><![CDATA[These handcrafted all natural organic soaps are made with the highest quality ingredients. Each bar is infused with Hemp Terpenes &#038; essential oils for medical purposes.
 
 Discover the Amazing Benefits of this Natural Soap Infused with Hemp Oil and Hemp Terpenes
@@ -63,11 +63,11 @@ UNDERSTANDING HOW HEMP SOAPS REDUCES THE SIGNS OF AGING
 One of the things many fail to realize is that as we age, the metabolism of our cells decrease and as a result, there is a reduction of essential fatty acids which are ingested that will be released into the epidermis (or the topmost layer of the skin). As a result, our skin becomes thinner and extremely dry. This age-related decline attributes to the formation of wrinkles and even the overall appearance of aged skin. The application of hemp oil through body care products, such as soaps and lotions, will compensate for the decline and minimize the signs of aging.
 
 Buy Cannabis Infused Products Onlin]]></description>
-				<content:encoded><![CDATA[<p><img src='-content/uploads/2018/04/Relax-Lavander.gif'></p>]]></content:encoded>
+				<content:encoded><![CDATA[<p><img src='https://noiseissound.github.io/CRWellnessCenter-content/uploads/2018/04/Relax-Lavander.gif'></p>]]></content:encoded>
 			</item>
 		<item>
 		<title>Purple Syrup Tincture (Headstash)</title>
-		<link>/product/purple-syrup-tincture-headstash/</link>
+		<link>https://noiseissound.github.io/CRWellnessCenter/product/purple-syrup-tincture-headstash/</link>
 		<pubDate>Fri, 30 Mar 2018 01:16:21 +0000</pubDate>
 		<dc:creator><![CDATA[root]]></dc:creator>
 		
@@ -77,7 +77,7 @@ Buy Cannabis Infused Products Onlin]]></description>
 			</item>
 		<item>
 		<title>Grape Syrup (60ml) (Thompson Caribou)</title>
-		<link>/product/grape-syrup-60ml-thompson-caribou/</link>
+		<link>https://noiseissound.github.io/CRWellnessCenter/product/grape-syrup-60ml-thompson-caribou/</link>
 		<pubDate>Fri, 30 Mar 2018 01:16:10 +0000</pubDate>
 		<dc:creator><![CDATA[root]]></dc:creator>
 		
@@ -87,7 +87,7 @@ Buy Cannabis Infused Products Onlin]]></description>
 			</item>
 		<item>
 		<title>Mota Iced Tea Mix 150mg</title>
-		<link>/product/mota-iced-tea-mix-150mg/</link>
+		<link>https://noiseissound.github.io/CRWellnessCenter/product/mota-iced-tea-mix-150mg/</link>
 		<pubDate>Fri, 30 Mar 2018 01:16:09 +0000</pubDate>
 		<dc:creator><![CDATA[root]]></dc:creator>
 		
@@ -97,7 +97,7 @@ Buy Cannabis Infused Products Onlin]]></description>
 			</item>
 		<item>
 		<title>Herb Approach Baked Rice Crispy Squares 60mg</title>
-		<link>/product/herb-approach-baked-rice-crispy-squares-60mg/</link>
+		<link>https://noiseissound.github.io/CRWellnessCenter/product/herb-approach-baked-rice-crispy-squares-60mg/</link>
 		<pubDate>Fri, 30 Mar 2018 01:16:08 +0000</pubDate>
 		<dc:creator><![CDATA[root]]></dc:creator>
 		
@@ -107,7 +107,7 @@ Buy Cannabis Infused Products Onlin]]></description>
 			</item>
 		<item>
 		<title>Mota Medicated Peanut Butter Square 150mg</title>
-		<link>/product/mota-medicated-peanut-butter-square-150mg/</link>
+		<link>https://noiseissound.github.io/CRWellnessCenter/product/mota-medicated-peanut-butter-square-150mg/</link>
 		<pubDate>Fri, 30 Mar 2018 01:16:07 +0000</pubDate>
 		<dc:creator><![CDATA[root]]></dc:creator>
 		
@@ -119,17 +119,17 @@ Buy Cannabis Infused Products Onlin]]></description>
 			</item>
 		<item>
 		<title>MOTA Dried Mango</title>
-		<link>/product/mota-dried-mango/</link>
+		<link>https://noiseissound.github.io/CRWellnessCenter/product/mota-dried-mango/</link>
 		<pubDate>Fri, 30 Mar 2018 01:16:07 +0000</pubDate>
 		<dc:creator><![CDATA[root]]></dc:creator>
 		
 		<guid isPermaLink="false">http://localhost/product/import-placeholder-for-373/</guid>
 		<description><![CDATA[Cannabis infused dried mango, coming from one of Canada’s leading companies, MOTA, is made to keep you medicated. Each bag guaranteed to please with 150mg of THC, and made with natural ingredients (including MOTA’s signature THC juice) these dried pieces of the tropics are the healthiest way to medicate.]]></description>
-				<content:encoded><![CDATA[<p><img src='-content/uploads/2018/03/Mota-Dried-Mango-600x600.jpg'></p>]]></content:encoded>
+				<content:encoded><![CDATA[<p><img src='https://noiseissound.github.io/CRWellnessCenter-content/uploads/2018/03/Mota-Dried-Mango-600x600.jpg'></p>]]></content:encoded>
 			</item>
 		<item>
 		<title>Apothecary 20mg THC Oil</title>
-		<link>/product/apothecary-20mg-thc-oil/</link>
+		<link>https://noiseissound.github.io/CRWellnessCenter/product/apothecary-20mg-thc-oil/</link>
 		<pubDate>Fri, 30 Mar 2018 01:16:06 +0000</pubDate>
 		<dc:creator><![CDATA[root]]></dc:creator>
 		

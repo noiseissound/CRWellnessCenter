@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Distillates &#8211; CR Wellness Dispensary</title>
-	<atom:link href="/product-category/distillates/feed/" rel="self" type="application/rss+xml" />
-	<link></link>
+	<atom:link href="https://noiseissound.github.io/CRWellnessCenter/product-category/distillates/feed/" rel="self" type="application/rss+xml" />
+	<link>https://noiseissound.github.io/CRWellnessCenter</link>
 	<description></description>
 	<lastBuildDate>Mon, 02 Apr 2018 09:42:37 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -19,7 +19,7 @@
 	<generator>https://wordpress.org/?v=4.9.4</generator>
 	<item>
 		<title>KleerX Distillate 1g</title>
-		<link>/product/kleerx-distillate-1g/</link>
+		<link>https://noiseissound.github.io/CRWellnessCenter/product/kleerx-distillate-1g/</link>
 		<pubDate>Fri, 30 Mar 2018 01:16:04 +0000</pubDate>
 		<dc:creator><![CDATA[root]]></dc:creator>
 		
@@ -32,7 +32,7 @@
 			</item>
 		<item>
 		<title>Medi-Drops (Pacific Gas) 0.5ml Distillate</title>
-		<link>/product/medi-drops-pacific-gas-0-5ml-distillate/</link>
+		<link>https://noiseissound.github.io/CRWellnessCenter/product/medi-drops-pacific-gas-0-5ml-distillate/</link>
 		<pubDate>Fri, 30 Mar 2018 01:16:04 +0000</pubDate>
 		<dc:creator><![CDATA[root]]></dc:creator>
 		

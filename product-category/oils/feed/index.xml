@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Oils &#8211; CR Wellness Dispensary</title>
-	<atom:link href="/product-category/oils/feed/" rel="self" type="application/rss+xml" />
-	<link></link>
+	<atom:link href="https://noiseissound.github.io/CRWellnessCenter/product-category/oils/feed/" rel="self" type="application/rss+xml" />
+	<link>https://noiseissound.github.io/CRWellnessCenter</link>
 	<description></description>
 	<lastBuildDate>Mon, 02 Apr 2018 09:42:37 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -19,7 +19,7 @@
 	<generator>https://wordpress.org/?v=4.9.4</generator>
 	<item>
 		<title>MediCaps 25mg THC Capsules – THC Oil Extract (Headstash)</title>
-		<link>/product/medicaps-25mg-thc-capsules-thc-oil-extract-headstash/</link>
+		<link>https://noiseissound.github.io/CRWellnessCenter/product/medicaps-25mg-thc-capsules-thc-oil-extract-headstash/</link>
 		<pubDate>Fri, 30 Mar 2018 01:16:06 +0000</pubDate>
 		<dc:creator><![CDATA[root]]></dc:creator>
 		
@@ -34,7 +34,7 @@ Each order contains 1 capsule.]]></description>
 			</item>
 		<item>
 		<title>Apothecary 20mg THC Oil</title>
-		<link>/product/apothecary-20mg-thc-oil/</link>
+		<link>https://noiseissound.github.io/CRWellnessCenter/product/apothecary-20mg-thc-oil/</link>
 		<pubDate>Fri, 30 Mar 2018 01:16:06 +0000</pubDate>
 		<dc:creator><![CDATA[root]]></dc:creator>
 		
@@ -53,7 +53,7 @@ Dosage: Take 1 capsule, CannaCaps are absorbed by the liver and can take 1-2 hou
 			</item>
 		<item>
 		<title>TOKO Slim Disposable Vape Pen – Girl Scout Cookies</title>
-		<link>/product/toko-slim-disposable-vape-pen-girl-scout-cookies/</link>
+		<link>https://noiseissound.github.io/CRWellnessCenter/product/toko-slim-disposable-vape-pen-girl-scout-cookies/</link>
 		<pubDate>Fri, 30 Mar 2018 01:16:05 +0000</pubDate>
 		<dc:creator><![CDATA[root]]></dc:creator>
 		

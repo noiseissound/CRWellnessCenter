@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Edibles &#8211; CR Wellness Dispensary</title>
-	<atom:link href="/product-category/edibles/feed/" rel="self" type="application/rss+xml" />
-	<link></link>
+	<atom:link href="https://noiseissound.github.io/CRWellnessCenter/product-category/edibles/feed/" rel="self" type="application/rss+xml" />
+	<link>https://noiseissound.github.io/CRWellnessCenter</link>
 	<description></description>
 	<lastBuildDate>Mon, 02 Apr 2018 09:42:37 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -19,7 +19,7 @@
 	<generator>https://wordpress.org/?v=4.9.4</generator>
 	<item>
 		<title>Herb Approach Baked Rice Crispy Squares 60mg</title>
-		<link>/product/herb-approach-baked-rice-crispy-squares-60mg/</link>
+		<link>https://noiseissound.github.io/CRWellnessCenter/product/herb-approach-baked-rice-crispy-squares-60mg/</link>
 		<pubDate>Fri, 30 Mar 2018 01:16:08 +0000</pubDate>
 		<dc:creator><![CDATA[root]]></dc:creator>
 		
@@ -32,20 +32,20 @@
 			</item>
 		<item>
 		<title>MOTA Dried Mango</title>
-		<link>/product/mota-dried-mango/</link>
+		<link>https://noiseissound.github.io/CRWellnessCenter/product/mota-dried-mango/</link>
 		<pubDate>Fri, 30 Mar 2018 01:16:07 +0000</pubDate>
 		<dc:creator><![CDATA[root]]></dc:creator>
 		
 		<guid isPermaLink="false">http://localhost/product/import-placeholder-for-373/</guid>
 		<description><![CDATA[Cannabis infused dried mango, coming from one of Canada’s leading companies, MOTA, is made to keep you medicated. Each bag guaranteed to please with 150mg of THC, and made with natural ingredients (including MOTA’s signature THC juice) these dried pieces of the tropics are the healthiest way to medicate.]]></description>
-				<content:encoded><![CDATA[<p><img src='-content/uploads/2018/03/Mota-Dried-Mango-600x600.jpg'></p><div id="themify_builder_content-241" data-postid="241" class="themify_builder_content themify_builder_content-241 themify_builder">
+				<content:encoded><![CDATA[<p><img src='https://noiseissound.github.io/CRWellnessCenter-content/uploads/2018/03/Mota-Dried-Mango-600x600.jpg'></p><div id="themify_builder_content-241" data-postid="241" class="themify_builder_content themify_builder_content-241 themify_builder">
 
     </div>
 <!-- /themify_builder_content -->]]></content:encoded>
 			</item>
 		<item>
 		<title>Mota Medicated Peanut Butter Square 150mg</title>
-		<link>/product/mota-medicated-peanut-butter-square-150mg/</link>
+		<link>https://noiseissound.github.io/CRWellnessCenter/product/mota-medicated-peanut-butter-square-150mg/</link>
 		<pubDate>Fri, 30 Mar 2018 01:16:07 +0000</pubDate>
 		<dc:creator><![CDATA[root]]></dc:creator>
 		

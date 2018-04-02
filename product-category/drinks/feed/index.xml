@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Drinks &#8211; CR Wellness Dispensary</title>
-	<atom:link href="/product-category/drinks/feed/" rel="self" type="application/rss+xml" />
-	<link></link>
+	<atom:link href="https://noiseissound.github.io/CRWellnessCenter/product-category/drinks/feed/" rel="self" type="application/rss+xml" />
+	<link>https://noiseissound.github.io/CRWellnessCenter</link>
 	<description></description>
 	<lastBuildDate>Mon, 02 Apr 2018 09:42:37 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -19,7 +19,7 @@
 	<generator>https://wordpress.org/?v=4.9.4</generator>
 	<item>
 		<title>Purple Syrup Tincture (Headstash)</title>
-		<link>/product/purple-syrup-tincture-headstash/</link>
+		<link>https://noiseissound.github.io/CRWellnessCenter/product/purple-syrup-tincture-headstash/</link>
 		<pubDate>Fri, 30 Mar 2018 01:16:21 +0000</pubDate>
 		<dc:creator><![CDATA[root]]></dc:creator>
 		
@@ -32,7 +32,7 @@
 			</item>
 		<item>
 		<title>Grape Syrup (60ml) (Thompson Caribou)</title>
-		<link>/product/grape-syrup-60ml-thompson-caribou/</link>
+		<link>https://noiseissound.github.io/CRWellnessCenter/product/grape-syrup-60ml-thompson-caribou/</link>
 		<pubDate>Fri, 30 Mar 2018 01:16:10 +0000</pubDate>
 		<dc:creator><![CDATA[root]]></dc:creator>
 		
@@ -45,7 +45,7 @@
 			</item>
 		<item>
 		<title>Mota Iced Tea Mix 150mg</title>
-		<link>/product/mota-iced-tea-mix-150mg/</link>
+		<link>https://noiseissound.github.io/CRWellnessCenter/product/mota-iced-tea-mix-150mg/</link>
 		<pubDate>Fri, 30 Mar 2018 01:16:09 +0000</pubDate>
 		<dc:creator><![CDATA[root]]></dc:creator>
 		

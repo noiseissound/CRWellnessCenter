@@ -7,10 +7,10 @@
 	>
 <channel>
 	<title>Comments for CR Wellness Dispensary</title>
-	<atom:link href="/comments/feed/" rel="self" type="application/rss+xml" />
-	<link></link>
+	<atom:link href="https://noiseissound.github.io/CRWellnessCenter/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>https://noiseissound.github.io/CRWellnessCenter</link>
 	<description></description>
-	<lastBuildDate>Mon, 02 Apr 2018 10:38:25 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 02 Apr 2018 11:00:39 +0000</lastBuildDate>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=4.9.4</generator>

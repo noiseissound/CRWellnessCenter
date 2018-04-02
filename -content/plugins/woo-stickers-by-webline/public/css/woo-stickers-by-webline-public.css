@@ -4,7 +4,7 @@
  */
  @CHARSET "UTF-8";
 
-.woosticker{ position:absolute; background-image:url(-content/plugins/woo-stickers-by-webline/public/images/wli_label_sprite.png); color:transparent; text-indent: -9999px; z-index:99; }
+.woosticker{ position:absolute; background-image:url(https://noiseissound.github.io/CRWellnessCenter-content/plugins/woo-stickers-by-webline/public/images/wli_label_sprite.png); color:transparent; text-indent: -9999px; z-index:99; }
 
 .woosticker.pos_right{ right:0px; left:inherit; }
 .woosticker.pos_left{ left:0px; top:0px; }
