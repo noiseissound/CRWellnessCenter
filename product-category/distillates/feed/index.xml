@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Distillates &#8211; CR Wellness Dispensary</title>
+	<atom:link href="/product-category/distillates/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description></description>
+	<lastBuildDate>Mon, 02 Apr 2018 09:42:37 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.4</generator>
+	<item>
+		<title>KleerX Distillate 1g</title>
+		<link>/product/kleerx-distillate-1g/</link>
+		<pubDate>Fri, 30 Mar 2018 01:16:04 +0000</pubDate>
+		<dc:creator><![CDATA[root]]></dc:creator>
+		
+		<guid isPermaLink="false">http://localhost/product/import-placeholder-for-362/</guid>
+		<description><![CDATA[Currently touted as the favored dabs application tool on the market; perfect for administering dabs and oil concentrates without wasting a drop. This airtight glass syringe doles out the medicine with precision. This generous 1ml syringe is one of the cleanest and easiest ways to distribute concentrates, fusing medical grade craftsmanship with an included cap to lock in the air and freshness. Crafted from high quality heat-resistant borosciliate glass, it was designed to dab directly onto any heated nail. For processors and dispensaries, these glass syringes disassembles into 3-pieces for easy filling and cleaning. This product is pre-sterilized as well as shipped in sterile packaging so that they are able to be filled right out of the box. Working with concentrates can be sticky business but glass syringes are the perfect solution to cutting out the mess.]]></description>
+				<content:encoded><![CDATA[<p><img src='http://localhost/wp-content/uploads/2018/03/Kleer-Distillate-600x600-3-510x510.jpg'></p><div id="themify_builder_content-236" data-postid="236" class="themify_builder_content themify_builder_content-236 themify_builder">
+
+    </div>
+<!-- /themify_builder_content -->]]></content:encoded>
+			</item>
+		<item>
+		<title>Medi-Drops (Pacific Gas) 0.5ml Distillate</title>
+		<link>/product/medi-drops-pacific-gas-0-5ml-distillate/</link>
+		<pubDate>Fri, 30 Mar 2018 01:16:04 +0000</pubDate>
+		<dc:creator><![CDATA[root]]></dc:creator>
+		
+		<guid isPermaLink="false">http://localhost/product/import-placeholder-for-364/</guid>
+		<description><![CDATA[<h3>100% THC distillate</h3>
+The Pacific Gas Vaping Cartridge is a 100% solvent-free cannabis concentrate, unmatched in potency, purity, and flavor. Made from “the Clear”, and using PHO as the starting material, it is then extracted using fractional distillation methods to make it potent and effective in oral, trans-dermal, and smokeable applications.
+<h3>Fractional Distillation</h3>
+Fractional distillation of the oil requires that the oil be heated to a high temperature under a reduced pressure created by a vacuum pump. This causes the THC and related cannabinoid substances to vaporize. The vapors are condensed back into an oil on contact with a cooled surface.
+
+Using a pharmaceutical grade steam-pressure extraction method, they scrub all residuals from a solvent-extracted base material (with no trace material in the final product above parts-per-billion).
+
+<strong>Ingredients:</strong> 100% THC distillate
+
+* Each 510-threaded cartridge contains 0.5 ml of the Clear.
+
+** Compatible with <a href="https://herbaldispatch.com/product/shhhhhhh-vape-pen-multiple-strains/">Shhhhhhh</a>, <a href="https://herbaldispatch.com/product/toko-gold-vape-pen-multiple-strains/">Toko Gold</a>, <a href="https://herbaldispatch.com/product/oil-vape-pen-kit-3/">Oil Vape Pen Kit</a>, and the <a href="https://herbaldispatch.com/product/puma-mini-vape-kit/">Puma Mini-Kit</a>.]]></description>
+				<content:encoded><![CDATA[<p><img src='http://localhost/wp-content/uploads/2018/03/Pacific-Gas-Co-Medi-Drops-600x600.jpg'></p><div id="themify_builder_content-237" data-postid="237" class="themify_builder_content themify_builder_content-237 themify_builder">
+
+    </div>
+<!-- /themify_builder_content -->]]></content:encoded>
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Drinks &#8211; CR Wellness Dispensary</title>
+	<atom:link href="/product-category/drinks/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description></description>
+	<lastBuildDate>Mon, 02 Apr 2018 09:42:37 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.4</generator>
+	<item>
+		<title>Purple Syrup Tincture (Headstash)</title>
+		<link>/product/purple-syrup-tincture-headstash/</link>
+		<pubDate>Fri, 30 Mar 2018 01:16:21 +0000</pubDate>
+		<dc:creator><![CDATA[root]]></dc:creator>
+		
+		<guid isPermaLink="false">http://localhost/product/import-placeholder-for-383/</guid>
+		<description><![CDATA[Add the <strong>P</strong><strong>urple Syrup Tincture</strong> elixir to carbonated water or your favourite clear soda/ beverage, and wait up to an hour before consuming more of the elixir.]]></description>
+				<content:encoded><![CDATA[<p><img src='http://localhost/wp-content/uploads/2018/03/38537_headstash_clearlymedicinal_seedsmanhazeshatter_1_1_-768x768.jpg'></p><div id="themify_builder_content-246" data-postid="246" class="themify_builder_content themify_builder_content-246 themify_builder">
+
+    </div>
+<!-- /themify_builder_content -->]]></content:encoded>
+			</item>
+		<item>
+		<title>Grape Syrup (60ml) (Thompson Caribou)</title>
+		<link>/product/grape-syrup-60ml-thompson-caribou/</link>
+		<pubDate>Fri, 30 Mar 2018 01:16:10 +0000</pubDate>
+		<dc:creator><![CDATA[root]]></dc:creator>
+		
+		<guid isPermaLink="false">http://localhost/product/import-placeholder-for-381/</guid>
+		<description><![CDATA[1 Gram of Premium Concentrates in every 50ml! That’s 1000mg of THC infused into an all Natural Grape Syrup. Drink Your Dabs, Mix it with your favorite Soda/Pop !]]></description>
+				<content:encoded><![CDATA[<p><img src='http://localhost/wp-content/uploads/2018/03/Thompsoncaribougrape.jpg'></p><div id="themify_builder_content-245" data-postid="245" class="themify_builder_content themify_builder_content-245 themify_builder">
+
+    </div>
+<!-- /themify_builder_content -->]]></content:encoded>
+			</item>
+		<item>
+		<title>Mota Iced Tea Mix 150mg</title>
+		<link>/product/mota-iced-tea-mix-150mg/</link>
+		<pubDate>Fri, 30 Mar 2018 01:16:09 +0000</pubDate>
+		<dc:creator><![CDATA[root]]></dc:creator>
+		
+		<guid isPermaLink="false">http://localhost/product/import-placeholder-for-379/</guid>
+		<description><![CDATA[You don’t need to master croquet to learn this simple bit of ye olde English lifestyle lore: on a hot summer’s day — or anytime thirst needs refreshing— iced tea is <em>the </em>nice tea. Our medicated iced tea blends citrus and tea flavours with a well-balanced splash of sugar sweetness. Just add water and serve over ice. Ahhh. And our medicated, cannabis infused quencher comes through, with a consistent measured dose of THC.]]></description>
+				<content:encoded><![CDATA[<p><img src='http://localhost/wp-content/uploads/2018/03/mota-iced-tea-mix-front-from-herb-approach.jpg'></p><div id="themify_builder_content-244" data-postid="244" class="themify_builder_content themify_builder_content-244 themify_builder">
+
+    </div>
+<!-- /themify_builder_content -->]]></content:encoded>
+			</item>
+	</channel>
+</rss>

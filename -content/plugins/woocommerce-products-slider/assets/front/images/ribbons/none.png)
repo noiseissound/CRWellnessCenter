@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Redirecting...</title>
+		<meta http-equiv="refresh" content="0;url=http://96.54.76.182/wp-content/plugins/woocommerce-products-slider/assets/front/images/ribbons/none.png">
+	</head>
+	<body>
+		<script type="text/javascript">
+			window.location = "http://96.54.76.182/wp-content/plugins/woocommerce-products-slider/assets/front/images/ribbons/none.png";
+		</script>
+
+		<p>You are being redirected to <a href="http://96.54.76.182/wp-content/plugins/woocommerce-products-slider/assets/front/images/ribbons/none.png">http://96.54.76.182/wp-content/plugins/woocommerce-products-slider/assets/front/images/ribbons/none.png</a></p>
+	</body>
+</html>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Edibles &#8211; CR Wellness Dispensary</title>
+	<atom:link href="/product-category/edibles/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description></description>
+	<lastBuildDate>Mon, 02 Apr 2018 09:42:37 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.4</generator>
+	<item>
+		<title>Herb Approach Baked Rice Crispy Squares 60mg</title>
+		<link>/product/herb-approach-baked-rice-crispy-squares-60mg/</link>
+		<pubDate>Fri, 30 Mar 2018 01:16:08 +0000</pubDate>
+		<dc:creator><![CDATA[root]]></dc:creator>
+		
+		<guid isPermaLink="false">http://localhost/product/import-placeholder-for-377/</guid>
+		<description><![CDATA[Ooey-gooey, crispy and crunchy. A delightful twist on a delicious classic. <strong>Rice Crispy</strong> folded into melted marshmallow. And just when you thought it couldn’t get any better, we added a decadent layer of chocolate on top… hungry yet?]]></description>
+				<content:encoded><![CDATA[<p><img src='http://localhost/wp-content/uploads/2018/03/herbapproach-baked-edibles-rice-crispy-squares.jpg'></p><div id="themify_builder_content-243" data-postid="243" class="themify_builder_content themify_builder_content-243 themify_builder">
+
+    </div>
+<!-- /themify_builder_content -->]]></content:encoded>
+			</item>
+		<item>
+		<title>MOTA Dried Mango</title>
+		<link>/product/mota-dried-mango/</link>
+		<pubDate>Fri, 30 Mar 2018 01:16:07 +0000</pubDate>
+		<dc:creator><![CDATA[root]]></dc:creator>
+		
+		<guid isPermaLink="false">http://localhost/product/import-placeholder-for-373/</guid>
+		<description><![CDATA[Cannabis infused dried mango, coming from one of Canada’s leading companies, MOTA, is made to keep you medicated. Each bag guaranteed to please with 150mg of THC, and made with natural ingredients (including MOTA’s signature THC juice) these dried pieces of the tropics are the healthiest way to medicate.]]></description>
+				<content:encoded><![CDATA[<p><img src='-content/uploads/2018/03/Mota-Dried-Mango-600x600.jpg'></p><div id="themify_builder_content-241" data-postid="241" class="themify_builder_content themify_builder_content-241 themify_builder">
+
+    </div>
+<!-- /themify_builder_content -->]]></content:encoded>
+			</item>
+		<item>
+		<title>Mota Medicated Peanut Butter Square 150mg</title>
+		<link>/product/mota-medicated-peanut-butter-square-150mg/</link>
+		<pubDate>Fri, 30 Mar 2018 01:16:07 +0000</pubDate>
+		<dc:creator><![CDATA[root]]></dc:creator>
+		
+		<guid isPermaLink="false">http://localhost/product/import-placeholder-for-375/</guid>
+		<description><![CDATA[The magic of peanut butter, marshmallows, butter and vanilla infused with a measured dose of 150mg THC makes this great North American square a viable option for chronic pain, insomnia, and stress. Each order includes one square.
+
+&#160;]]></description>
+				<content:encoded><![CDATA[<p><img src='http://localhost/wp-content/uploads/2018/03/mota-medicated-peanut-butter-square-150mg-thc-from-herb-approach.jpg'></p><div id="themify_builder_content-242" data-postid="242" class="themify_builder_content themify_builder_content-242 themify_builder">
+
+    </div>
+<!-- /themify_builder_content -->]]></content:encoded>
+			</item>
+	</channel>
+</rss>
